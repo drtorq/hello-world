@@ -6,4 +6,6 @@ drtorq here. This project shows how to use the github system. Probably want to a
 
 Here is an additional comment to demo pull requests.
 
-still trying to understand the pull-request, commit concepts.
+still trying to understand the pull-request.
+
+Not sure yet.
